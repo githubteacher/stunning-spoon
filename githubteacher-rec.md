@@ -2,4 +2,5 @@
 
 ### Places to Eat
 - Dunedin Brewery :taco: and :beer:
-- Cigar City Brew Pub
+- Cigar City Brew Hall
+- Leuken's Liquors
