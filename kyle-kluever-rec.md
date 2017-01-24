@@ -6,3 +6,4 @@
 
 ### Places to drink
 - [Surly](http://www.surlybrewing.com) :beer:
+- [Great Waters](http://greatwatersbc.com/) :beer:
