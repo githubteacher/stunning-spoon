@@ -1,7 +1,7 @@
 # Twin Cities, MN
 
 ## Places to Eat
--- The Tavern Grille
--- Granite City
--- Original Pancake House
--- Cossetta's
+- The Tavern Grille
+- Granite City (2nd choice)
+- Original Pancake House
+- Cossetta's (1st choice)
