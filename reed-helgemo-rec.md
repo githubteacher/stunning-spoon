@@ -5,3 +5,6 @@
 - Surly Brewery
 - Great Water's Brewery
 - Ruam Mit Thai
+
+## Places to Visit
+- Lake Minnetonka
