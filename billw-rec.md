@@ -3,4 +3,4 @@
 ### Places to eat
 - My dinner table
 - My desk
-- In Car
+- In Car, no driving
