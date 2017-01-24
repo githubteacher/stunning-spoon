@@ -1,7 +1,7 @@
 # St Paul, MN
 
 ### Places to Eat
-- Bag lunch sandwich and water
-- Arby's we've got the meat
+- Bag lunch
+- Arby's
 - Subway
 - Sprout salad
