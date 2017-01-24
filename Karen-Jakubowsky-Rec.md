@@ -1,6 +1,7 @@
 # St Paul, MN
 
-##Places to Eat
+###Places to Eat
 - Cosettas - Italian
 - World of :beer: in LowerTown
-- Test
+- Key's Cafe
+- Sakura
