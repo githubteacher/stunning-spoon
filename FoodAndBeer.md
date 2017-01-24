@@ -1,3 +1,4 @@
 Dark Horse Brewery - Downton St. Paul
 Chindian - Minneapolis (Northeast)
 Kafe 421 - Minneapolis (Dinkytown)
+World Street Kitchen - Minneapolis (Uptown)
