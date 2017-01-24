@@ -1,5 +1,6 @@
 # St. Paul, MN
 
 ### Places to Eat
-- Dark Horse
+- Dark Horse - Only did HH there
 - Rival House :pizza: and :beer:
+- Surly Brewery
