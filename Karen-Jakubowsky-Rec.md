@@ -5,3 +5,4 @@
 - World of :beer: in LowerTown
 - Key's Cafe
 - Sakura
+- Pizza Luce
