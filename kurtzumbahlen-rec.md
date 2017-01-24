@@ -2,5 +2,5 @@
 
 ### Places to Eat
 - Surly for :beer: 
-- Tori Ramen for ramen
+- Tori Ramen for ramen - It's in St. Paul.
 
