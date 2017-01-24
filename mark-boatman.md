@@ -7,3 +7,9 @@
 - Sprout salad
 - Go hungry
 - :taco: Barn
+- Cossettas
+
+### Places to Visit
+- Capitol
+- Excel Energy Center
+- Securian Center
